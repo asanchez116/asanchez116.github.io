@@ -1,4 +1,5 @@
 # Personal Website and Portfolio 
+### still in development ...
 ## This website contains links to various documents including 
 1. [Resume](https://github.com/asanchez116/asanchez116.github.io/blob/master/AndrewSanchezResume.docx?raw=true)
 1. Project Portfolio 
